@@ -5,7 +5,6 @@ Welcome to my GitHub profile!
 ## 🌟 About Me
 
 - 👨‍💻 **Developer and Tech Enthusiast**
-- 🎮 Lover of **Pokémon** and **Zelda** games
 - 🌱 Currently exploring **Python** and **Machine Learning**
 
 ## 🛠️ Skills

@@ -1,11 +1,10 @@
 # Hi there, I'm Swampbear 👋
 
-Welcome to my GitHub profile!
-
 ## 🌟 About Me
 
 - 👨‍💻 **Developer and Tech Enthusiast**
 - 🌱 Currently exploring **Python** and **Machine Learning**
+- 🇳🇴 Based in Førde, Vestland
 
 ## 🛠️ Skills
 

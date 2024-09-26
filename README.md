@@ -1,5 +1,5 @@
-# Hi there, I'm Swampbear 👋
-![swampbear's github stats](https://github-readme-stats.vercel.app/api?username=swampbear&show_icons=true&count_private=true&theme=dracula)
+# Hi there, I'm Jobjørn 👋
+![jobjorns's github stats](https://j.gifs.com/vbeaPa.gif)
 ## 🌟 About Me
 
 - 👨‍💻 **Student in Information Technology and Tech Enthusiast**
@@ -8,7 +8,7 @@
 
 ## 🛠️ Skills
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swampbear&theme=dracula&layout=compact&hide=assembly,css,html)
-- **Frameworks & Tools:** REACT, Flutter, .NET, SpringBoot
+- **Frameworks & Tools:** REACT, Flutter, .NET, SpringBoot, scikit-learn
 - **Interests:** Softeware Engineering, Robotics, and Prototyping
 
 ## 📫 Get in Touch

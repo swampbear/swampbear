@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-- 👨‍💻 **Developer and Tech Enthusiast**
+- 👨‍💻 **Student in Information Technology and Tech Enthusiast**
 - 🌱 Currently exploring **Python** and **Machine Learning**
 - 🇳🇴 Based in Førde, Vestland
 

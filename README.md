@@ -1,5 +1,5 @@
 # Hi there, I'm Swampbear 👋
-
+![swampbear's github stats](https://github-readme-stats.vercel.app/api?username=swampbear&show_icons=true&count_private=true&theme=dracula)
 ## 🌟 About Me
 
 - 👨‍💻 **Student in Information Technology and Tech Enthusiast**
@@ -7,8 +7,7 @@
 - 🇳🇴 Based in Førde, Vestland
 
 ## 🛠️ Skills
-
-- **Programming Languages:** Java, Python, C#, JavaScript/Typescript and a bit dart
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swampbear&theme=dracula&layout=compact&hide=jupyter%20notebook)
 - **Frameworks & Tools:** REACT, Flutter, .NET, SpringBoot
 - **Interests:** Softeware Engineering, Robotics, and Prototyping
 

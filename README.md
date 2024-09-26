@@ -7,7 +7,7 @@
 - 🇳🇴 Based in Førde, Vestland
 
 ## 🛠️ Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swampbear&theme=dracula&layout=compact&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swampbear&theme=dracula&layout=compact&hide=assembly,css,html)
 - **Frameworks & Tools:** REACT, Flutter, .NET, SpringBoot
 - **Interests:** Softeware Engineering, Robotics, and Prototyping
 

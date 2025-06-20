@@ -1,9 +1,8 @@
 # Hi there, I'm Jobjørn 👋
 ![jobjorns's github stats](https://j.gifs.com/vbeaPa.gif)
 ## 🌟 About Me
-
-- 👨‍💻 **Student in Information Technology and Tech Enthusiast**
-- 🇳🇴 Based in Førde, Vestland
+- 👨‍💻 **B.Sci in Information techonlogy**
+- Works in a robotics lab time to time
 
 ## 💬 Languages
 

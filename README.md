@@ -3,6 +3,7 @@
 ## 🌟 About Me
 - 👨‍💻 **B.Sci in Information techonlogy**
 - Works in a robotics lab time to time
+- Currently doing go stuff
 
 ## 💬 Languages
 

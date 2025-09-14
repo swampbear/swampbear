@@ -5,14 +5,10 @@
 - Works in a robotics lab time to time
 - Currently doing go stuff
 
-## 💬 Languages
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/fef5a647-50ae-4897-b96e-07165b8b373f/thumbnail" >
+</p>
 
-<!-- Optional: Add languages you speak -->
-- English
-- Norwegian
-- Und ein bisschen Deutsch
----
-*Feel free to explore my repositories and get in touch if you'd like to collaborate on a project!*
 <!--
 **swampbear/swampbear** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

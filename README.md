@@ -2,8 +2,8 @@
 ![my inspiration](https://j.gifs.com/vbeaPa.gif)
 ## About Me
 - 👨‍💻 **Masters student in applied data technology and engineering knowledge**
-- Works in a robotics lab time to time(hvlrobotics)
-- Currently doing GO stuff, like it so far
+- Works in a robotics lab time to time(hvlrobotics) making React apps
+- Currently working on my backend skills and learning GO, like it so far
 
 
 ### When I got time I use boot.dev to sharpen my programming:

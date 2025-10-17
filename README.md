@@ -1,7 +1,7 @@
 # Hi there, I'm Jobjørn
 ![my inspiration](https://j.gifs.com/vbeaPa.gif)
 ## About Me
-- 👨‍💻 **Masters student in applied data technology and engineering knowledge**
+- 👨‍💻 **Masters student in applied data technology and engineering**
 - Works in a robotics lab time to time(hvlrobotics) making React apps
 - Currently working on my backend skills and learning GO, like it so far
 

@@ -108,7 +108,8 @@
 
 
 
-### When I got time I use boot.dev to sharpen my programming:
+### Really like to spend time on Boot.dev:
+Here is my [profile](https://www.boot.dev/u/swampbear)
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/fef5a647-50ae-4897-b96e-07165b8b373f/thumbnail" >
 </p>

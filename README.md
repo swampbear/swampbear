@@ -2,7 +2,7 @@
 ![my inspiration](https://j.gifs.com/vbeaPa.gif)
 ## About Me
 - 👨‍💻 **Masters student in applied data technology and engineering**
-- Works in a robotics lab time to time(hvlrobotics) making React apps
+- Works in a robotics lab time to time(hvlrobotics) making full stack apps
 - Currently working on my backend skills and learning GO, like it so far
 
 

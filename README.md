@@ -18,6 +18,9 @@
         <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
         </a> 
+        <a href="https://www.golang.org" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="java" width="40" height="40"/> 
+        </a> 
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
         </a> 
@@ -27,12 +30,6 @@
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
         </a> 
-        <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-        </a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-        </a>
       </p>
       <h4>Web Development</h4>
       <p>
@@ -53,6 +50,9 @@
         </a> 
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+        </a>
+        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="spring" width="40" height="40"/> 
         </a>
       </p>
     </td>
@@ -84,6 +84,9 @@
         </a> 
         <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+        </a> 
+        <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="azure" width="40" height="40"/> 
         </a> 
       </p>
       <h4>Machine Learning & Data Science</h4>

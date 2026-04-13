@@ -1,5 +1,6 @@
 # Hi there, I'm Jobjørn
-![everything is awsome](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVjdDE2Ym45MXI0ZGJxcHVxanlhdDF4c3pyazMwbGpocW83aTJpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SIMKP4dNU5znPHWSVZ/giphy.gif)
+[my website](https://jobjorn.no/)
+
 ## About Me
 - 👨‍💻 **Masters student in applied data technology and engineering**
 - Works in a robotics lab time to time(hvlrobotics) making full stack apps

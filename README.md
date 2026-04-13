@@ -1,5 +1,5 @@
 # Hi there, I'm Jobjørn
-![my inspiration](https://j.gifs.com/vbeaPa.gif)
+![everything is awsome](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTVjdDE2Ym45MXI0ZGJxcHVxanlhdDF4c3pyazMwbGpocW83aTJpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SIMKP4dNU5znPHWSVZ/giphy.gif)
 ## About Me
 - 👨‍💻 **Masters student in applied data technology and engineering**
 - Works in a robotics lab time to time(hvlrobotics) making full stack apps
@@ -108,7 +108,7 @@
 
 
 
-### Really like to spend time on Boot.dev:
+### Boot.dev:
 Here is my [profile](https://www.boot.dev/u/swampbear)
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/fef5a647-50ae-4897-b96e-07165b8b373f/thumbnail" >
